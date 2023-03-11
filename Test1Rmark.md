@@ -1,11 +1,3 @@
----
-title: "Test1Rstudio"
-date: 2016-08-25
-author: davidwdenton
-output: html_document
----
-
-```{r}
 #1 RStudio Practice Script----
 
 ##General things to do----
@@ -55,5 +47,3 @@ z <- x == y #x, y, and z are objects, z is a logical atomic vector or element, =
 z
 volcano #volcano is a matrix try View(volcano), States is a data frame, try View(States)
 volcano <- volcano
-
-```
